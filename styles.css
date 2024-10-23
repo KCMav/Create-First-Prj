@@ -1,0 +1,21 @@
+.name {
+    font-family: fantasy;
+}
+
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 300;
+    color: darkgoldenrod;
+}
+
+.list {
+    list-style: square;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
+
+}
+
+a {
+    text-decoration: dashed;
+    color: goldenrod;
+}
